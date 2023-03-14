@@ -1,5 +1,5 @@
 # About
-I hold a bachelor's degree in computer science domain from Cambridge institute of technology Bengaluru, Currently, I have been a part of a well-known organization Ntt data and in the past 6 months I've spent 500+ hours learning and practicing Data Science and Machine Learning skills, During this period of time I did a web-Scraping project, Exploratory Data Analysis Project, Excel, and Tableau Project and I'm currently working on a machine learning Project, My goal is to build my career into the data science domain and enhance my skills at a higher level over time.
+I hold a bachelor's degree in computer science domain from Cambridge institute of technology Bengaluru, Currently, I have been a part of a well-known organization Ntt data and in the past 6 months I've spent 500+ hours learning and practicing Data Science and Machine Learning skills, During this period of time I did a web-Scraping project, Exploratory Data Analysis Project, Excel, and Tableau Project and Recently I have Finished a machine learning Project, My goal is to build my career into the data science domain and enhance my skills at a higher level over time.
 
 ## EDUCATION
 **Data Science Bootcamp, Jovian [(view)](https://jovian.com/deepakkumawat2120)**
